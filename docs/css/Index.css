@@ -4,7 +4,7 @@ html{
 }
 canvas{
     border: 5px solid black; 
-    background: url('./foto-fondo.jpg') repeat;
+    background: url('/docs/img/foto-fondo.jpg') repeat;
 }
 
 div{
